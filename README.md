@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-<a href="https://termux.xyz/hack-install-free-fire-phishing-tool-with-termux/"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-FreeFirePhishing-green.svg"></a>
+<a href="https://termux.xyz/hack-install-free-fire-phishing-tool-with-termux/"><img title="Made in " src="https://img.shields.io/badge/Tool-FreeFirePhishing-green.svg"></a>
 <a href="https://termux.xyz/hack-install-free-fire-phishing-tool-with-termux/"><img title="Version" src="https://img.shields.io/badge/Version-2.8-green.svg?style=flat-square"></a>
 <a href="https://termux.xyz/hack-install-free-fire-phishing-tool-with-termux/"><img title="Maintainence" src="https://img.shields.io/badge/Admin-SUMAN-green.svg"></a>
 </p>
